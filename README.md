@@ -6,7 +6,7 @@ I'm **Michael Enoch**, a Front-End developer passionate about creative problem-s
 ## 🧐 About Me  
 - 💻 Front-End developer based in **Portharcourt, Nigeria**  
 - 🌟 Strong focus on sharing creative ideas through projects  
-- 🎨 Proficient in **JavaScript, CSS, and HTML**  
+- 🎨 Proficient in **JavaScript, Reactjs, CSS, and HTML**  
 - 🤝 Actively collaborating with others on projects  
 - 🌱 Always learning and exploring new technologies  
 
@@ -26,9 +26,8 @@ I'm **Michael Enoch**, a Front-End developer passionate about creative problem-s
 
 ## 🚀 Projects  
 
-- **[breadwave-clone](#)** → A dynamic representation of a bakery website  
-- **[shop-pro](#)** → E-commerce website with a modern look  
-- **[agriculture-website](#)** → Designed & developed agriculture-related site  
+- **[shop-pro](#)** → E-commerce website with a modern look 
+- **[shop-pro](#)** → E-commerce website with a modern look 
 - **[Devhex-Petcare](#)** → Collaborated on a pet care platform  
 
 ---
