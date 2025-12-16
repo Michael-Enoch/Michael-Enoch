@@ -27,7 +27,6 @@ I'm **Michael Enoch**, a Front-End developer passionate about creative problem-s
 ## 🚀 Projects  
 
 - **[shop-pro](#)** → E-commerce website with a modern look 
-- **[shop-pro](#)** → E-commerce website with a modern look 
 - **[Devhex-Petcare](#)** → Collaborated on a pet care platform  
 
 ---
